@@ -26,7 +26,7 @@
 
 ## 🌍 Languages
 - **Portuguese:** Native
-- **English:** Intermidiate (B2)
+- **English:** Intermediate (B2)
 
 ## 💡 Interests
 - Software Development
