@@ -19,6 +19,8 @@
 
 - **[Cursed Legacy](https://github.com/Rf2104/CursedLegacy) (C# + Unity):** A 3D game developed in Unity, featuring physics mechanics and environmental interaction.
 
+- **[BHSchool](https://github.com/Pereira3/BHSchool) (Java + Spring):** Web application for managing a school, with CRUD operations for students, teachers, and courses via REST APIs.** 
+
 ## 🎓 Education
 - **Bachelor's in Computer Science and Engineering** | Universidade da Beira Interior (2021 – 2024)
   - GPA: 16/20
