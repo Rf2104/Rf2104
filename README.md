@@ -13,6 +13,8 @@
 ## 💼 Featured Projects
 - **[Battleship Game](https://github.com/Rf2104/Battleship-Game) (Java + JavaFX):** A Battleship game with a graphical interface developed in JavaFX.
 
+- **[Aim trainer Website](https://github.com/Rf2104/Aim-Trainer) (JavaScript + HTML + CSS + PHP):** Aim trainer with complex challenges written in JavaScript.
+
 - **[Tap Service](https://github.com/Rf2104/Tap-Service) (Flutter + Dart):** A mobile app for service contracting, built using Flutter.
 
 - **[Cursed Legacy](https://github.com/Rf2104/CursedLegacy) (C# + Unity):** A 3D game developed in Unity, featuring physics mechanics and environmental interaction.
