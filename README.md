@@ -2,7 +2,7 @@
 🎓 A recent **Computer Science and Engineering** graduate from Universidade da Beira Interior, passionate about technology and innovation. Throughout my academic journey, I developed strong technical skills in areas such as software development, cybersecurity, and artificial intelligence. I've worked on various hands-on projects that helped me apply my knowledge and further expand my abilities.
 
 ## 🚀 Key Technologies & Tools
-- **Languages:** C, C#, Java, Python, Ocaml, Dart, JavaScript, SQL, HTML, CSS, PHP
+- **Languages:** Java, C, C#, Python, Ocaml, Dart, JavaScript, SQL, HTML, CSS, PHP
 
 - **Frameworks:** Flutter, JavaFX, Spring Framework
 
