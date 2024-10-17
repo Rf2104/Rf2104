@@ -8,7 +8,7 @@
 
 - **Tools & IDEs:** Git, Visual Studio Code, IntelliJ, Eclipse, Visual Studio, Unity
 
-- **Other Skills:** REST API development, Scrum, Agile Methodologies
+- **Other Skills:** Scrum, Agile Methodologies
 
 ## 💼 Featured Projects
 - **[Battleship Game](https://github.com/Rf2104/Battleship-Game) (Java + JavaFX):** A Battleship game with a graphical interface developed in JavaFX.
